@@ -35,7 +35,8 @@ Result: The report helped me understand my strengths and weaknesses and areas fo
 
 Create a CV
 Evidence
-Artefact: Professional CV (link to PDF: My CV).
+Artefact: Professional CV (link to PDF: My CV).https://github.com/wil-it2025/cv-tutorial-AthieX-34
+
 Description: A  CV highlighting my education, skills, and project experience in ICT made for professionally applying to a job
 Reflection (STAR Technique)
 Situation: The training required creating a CV suitable for an ICT job applications.
