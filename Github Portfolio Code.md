@@ -46,7 +46,8 @@ Result: The CV was praised for its clarity and relevance
 
 CV Submission
 Evidence
-Artefact: Screenshot of job application submission (link to image: Submission Confirmation).
+Artefact: Screenshot of job application submission (link to image: Submission Confirmation).https://github.com/wil-it2025/cv-tutorial-AthieX-34
+
 Description: A screenshot confirming the submission of my CV to a junior developer position at a local tech company via an online job portal.
 Reflection (STAR Technique)
 Situation: As part of the training, I needed to apply for a real job to get employment 
