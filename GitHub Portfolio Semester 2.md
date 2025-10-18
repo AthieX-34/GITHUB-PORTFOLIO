@@ -1,7 +1,7 @@
 
 <div align="center" style="background: linear-gradient(90deg, #0077b6, #00b4d8, #90e0ef); padding: 35px; border-radius: 20px;">
   <h1 style="color: white; font-size: 42px;">Athenkosi Mekana — Professional Digital Portfolio 🌐</h1>
-  <p style="color: white; font-size: 18px;">Diploma in Information & Communication Technology | Project Presentation 3 (PRP370S)</p>
+  <p style="color: white; font-size: 18px;">Diploma in Information & Communication Technology | Project Presentation 3 (PRP372S)</p>
   <img src="https://img.shields.io/github/repo-size/AthenkosiMekana/e-portfolio?color=white" alt="Repo Size"/>
   <img src="https://img.shields.io/badge/Status-Active-success?color=90EE90" alt="Status"/>
   <img src="https://img.shields.io/badge/Version-1.0-blue?color=00BFFF" alt="Version"/>
@@ -160,4 +160,5 @@ I now possess the tools to enter the ICT workforce with integrity, adaptability,
 
 
 ---
+
 
