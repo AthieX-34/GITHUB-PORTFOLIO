@@ -29,7 +29,7 @@ Highlighted below is evidence from my **Business Communication**, **Interview Sk
 - PowerPoint presentation: *“Enhancing Team Collaboration through Clear Communication”*.  
 - Written report: Analysis of communication breakdown in an ICT project team.  
 - Email samples demonstrating professional tone and etiquette.  
-- Example: [View Business Communication Presentation (PDF)](#)
+  https://github.com/wil-it2025/cv-tutorial-AthieX-34
 
 ### 💭 *Reflection — STAR Technique*
 **Situation:** During our work-readiness training, I led a group tasked with presenting on **effective workplace communication** in the ICT sector.  
@@ -92,10 +92,10 @@ https://github.com/wil-it2025/cv-tutorial-AthieX-34
 ![Networking event image](https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1000&q=80)
 
 ### 🧾 *Evidence*
-- Screenshot of active **LinkedIn profile** with 100+ connections.  
-- Participation summary: *CPUT ICT Career Fair* and *TechFuture SA Webinar 2025.*  
+- Screenshot of active **LinkedIn profile** with 100+ connections.
+-    https://github.com/wil-it2025/cv-tutorial-AthieX-34
 - Peer endorsements for communication and teamwork.  
-- Example: [View My LinkedIn Profile](https://www.linkedin.com/in/example)
+
 
 ### 💭 *Reflection — STAR Technique*
 **Situation:** Recognizing the importance of professional exposure, I decided to build my **digital identity** on LinkedIn,Github,Indeed and engage with ICT communities.  
@@ -117,8 +117,9 @@ https://github.com/wil-it2025/cv-tutorial-AthieX-34
 - Workplace simulation task: *“Managing a Conflict in a Development Team.”*  
 https://youtu.be/EDMY39JE1sY?si=RLFLflXDyPztS__j
 - Reflection report on teamwork and professional boundaries.  
-- Peer review form assessing collaboration.  
-- Example: [Workplace Etiquette Report (PDF)](#)
+- Peer review form assessing collaboration.
+- https://github.com/wil-it2025/cv-tutorial-AthieX-34
+
 
 ### 💭 *Reflection — STAR Technique*
 **Situation:** During a simulated exercise, our group was faced with a disagreement over task distribution in a web development project.  
@@ -159,3 +160,4 @@ I now possess the tools to enter the ICT workforce with integrity, adaptability,
 
 
 ---
+
