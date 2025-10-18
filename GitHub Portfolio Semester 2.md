@@ -10,7 +10,7 @@
 ---
 
 ## 👋 **About Me**
-![Professional portrait](https://images.unsplash.com/photo-1607746882042-944635dfe10e?auto=format&fit=crop&w=1000&q=80)
+![Professional portrait](https://tse1.mm.bing.net/th/id/OIP.Y14FsKvVV16nik6TuBWz3QHaDt?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3)
 
 Hello I am Athenkosi Mekana, a passionate 3rd year ICT student specializing in web development,application development, database design, and system integration through programming 
 
@@ -156,5 +156,6 @@ I now possess the tools to enter the ICT workforce with integrity, adaptability,
 | Tools | GitHub, Visual Studio Code, Figma |
 | Soft Skills | Communication, Teamwork, Leadership, Adaptability |
 | Professional Growth | Networking, Conflict Resolution, Time Management |
+
 
 ---
