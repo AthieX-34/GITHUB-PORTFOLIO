@@ -4,19 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Athenkosi Mekana - Junior Full-Stack Developer Portfolio</title>
-  <style>
-    body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 900px; margin: 0 auto; padding: 20px; }
-    h1, h2, h3 { color: #4A148C; }
-    a { color: #311B92; text-decoration: none; }
-    a:hover { text-decoration: underline; }
-    img { max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 15px 0; display: block; }
-    .center { text-align: center; }
-    .badges { margin: 10px 0; }
-    .section { margin-bottom: 40px; }
-    ul { list-style-type: disc; padding-left: 20px; }
-    .project { border: 1px solid #ddd; padding: 15px; margin-bottom: 20px; border-radius: 5px; }
-    footer { text-align: center; margin-top: 40px; font-size: 0.9em; color: #666; }
-  </style>
+
 </head>
 <body>
 <div class="center">
